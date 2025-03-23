@@ -1,5 +1,5 @@
-<h1 align="center">Hi Hristiyan Nikolov</h1>
-<h3 align="center">I am Java enthusiast!</h3>
+<h1 align="center">Hi, I'm Hristiyan!</h1>
+<h3 align="center">a Java enthusiast</h3>
 
 - 🔭 I’m currently working on [AutoHub](https://github.com/icaka0/Autohub)
 
