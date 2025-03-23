@@ -1,12 +1,3 @@
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi Hristiyan Nikolov</h1>
 <h3 align="center">I am Java enthusiast!</h3>
 
