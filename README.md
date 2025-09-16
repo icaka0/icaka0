@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Hristiyan!</h1>
 <h3 align="center">a Java enthusiast</h3>
 
-- 🔭 I’m currently working on [AutoHub](https://github.com/icaka0/Autohub)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
