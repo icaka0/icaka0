@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Hristiyan!</h1>
-<h3 align="center">a Java enthusiast</h3>
 
 
 <p align="left">
